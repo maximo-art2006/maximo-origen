@@ -1,2 +1,2 @@
-Nombre = input("Como te llamas?")
-print(Nombre)
+a=1
+b=2
